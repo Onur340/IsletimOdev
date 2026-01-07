@@ -3,3 +3,5 @@ işletim sistemlerinde kullanılan CPU çizelgeleme algoritmalarını ve perform
 Ödev Python ile yapılmıştır.
 
 Gerekli tüm belgeler eklenmiştir.
+
+Threading kullanılmıştır.
