@@ -4,4 +4,4 @@ işletim sistemlerinde kullanılan CPU çizelgeleme algoritmalarını ve perform
 
 Gerekli tüm belgeler eklenmiştir.
 
-Threading kullanılmıştır.
+Her yöntem ayrı bir thread olarak ve tüm yöntemler eş zamanlı olarak çalışmalı.
