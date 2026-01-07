@@ -1,0 +1,59 @@
+case1_FCFS
+
+Maksimum Bekleme: 1683
+Ortalama Bekleme: 813.50
+Maksimum Tamamlanma: 1703
+Ortalama Tamamlanma: 824.00
+Throughput (50, 100, 150, 200): [9, 13, 16, 19]
+CPU Verimliligi: %99.9905
+Toplam Baglam Degistirme Sayisi: 200
+
+case1_NonPre_Priority
+
+Maksimum Bekleme: 1689
+Ortalama Bekleme: 824.77
+Maksimum Tamamlanma: 1707
+Ortalama Tamamlanma: 835.27
+Throughput (50, 100, 150, 200): [8, 13, 16, 21]
+CPU Verimliligi: %99.9905
+Toplam Baglam Degistirme Sayisi: 200
+
+case1_NonPre_SJF
+
+Maksimum Bekleme: 1863
+Ortalama Bekleme: 537.42
+Maksimum Tamamlanma: 1883
+Ortalama Tamamlanma: 547.92
+Throughput (50, 100, 150, 200): [11, 22, 32, 42]
+CPU Verimliligi: %99.9905
+Toplam Baglam Degistirme Sayisi: 200
+
+case1_Preemptive_SJF
+
+Maksimum Bekleme: 1863
+Ortalama Bekleme: 537.00
+Maksimum Tamamlanma: 1883
+Ortalama Tamamlanma: 547.50
+Throughput (50, 100, 150, 200): [11, 22, 32, 42]
+CPU Verimliligi: %99.9899
+Toplam Baglam Degistirme Sayisi: 213
+
+case1_RoundRobin
+
+Maksimum Bekleme: 1863
+Ortalama Bekleme: 1091.70
+Maksimum Tamamlanma: 1883
+Ortalama Tamamlanma: 1102.20
+Throughput (50, 100, 150, 200): [7, 10, 12, 14]
+CPU Verimliligi: %99.9714
+Toplam Baglam Degistirme Sayisi: 600
+
+case1_Preemptive_Priority
+
+Maksimum Bekleme: 1689
+Ortalama Bekleme: 833.63
+Maksimum Tamamlanma: 1707
+Ortalama Tamamlanma: 844.13
+Throughput (50, 100, 150, 200): [6, 11, 14, 20]
+CPU Verimliligi: %99.9904
+Toplam Baglam Degistirme Sayisi: 202
